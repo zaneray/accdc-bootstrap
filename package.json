@@ -1,0 +1,12 @@
+{
+  "name": "accdc-bootstrap",
+  "description": "AccDC Bootstrap for the Standalone AccDC API",
+  "version": "1.0.6",
+  "repository": {
+    "type": "git",
+    "url": "https://git@github.com:zaneray/accdc-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
